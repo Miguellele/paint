@@ -1,0 +1,25 @@
+body{
+	background-image:url("monalisa-versoes.webp") ;
+}
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+canvas{
+	background: rgb(6,209,77);
+background: linear-gradient(90deg, rgba(6,209,77,1) 24%, rgba(47,0,148,1) 56%);
+border: 4px ridge black;
+}
+button{
+	background-color: darkblue;
+	color: white;
+	padding: 5px;
+	margin: 10px;
+}
+#thammhanno{
+	background-color: lightgreen;
+	padding: 5px;
+	margin: 10px;
+	width: 100px;
+}
